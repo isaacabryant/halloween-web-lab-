@@ -1,23 +1,23 @@
 body {
     background: black;
   font-family:fantasy;
-  }
-  p {
-    color: orange;
-    font-size:20px;
-    
-  }
-  h1 {
-    color:orange;
-    text-align: center;
-    font-size: 35px;
-    
-  }
-  ol{
-    font-size:30px;
-    color: orange;
-  }
-  img{
-    max-width: 600px;
-    max-height: 325px;
-  }
+}
+p {
+  color: orange;
+  font-size:20px;
+
+}
+h1 {
+  color:orange;
+  text-align: center;
+  font-size: 35px;
+
+}
+ol{
+  font-size:30px;
+  color: orange;
+}
+img{
+  max-width: 600px;
+  max-height: 325px;
+}
